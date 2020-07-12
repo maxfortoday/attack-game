@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+  margin: 0 auto;
+  border: 1px solid lightgray;
+  width: 80%;
+}
+
+.App h1 {
+  border-bottom: 1px solid lightgray;
+  padding-bottom: 10px;
+}
+
+@media only screen and (max-width: 540px) {
+  .App {
+    width: 95%;
+    margin: 0;
+    padding: 0;
+  }
+ }
