@@ -3,13 +3,6 @@ import './Players.css';
 
 const Players = ({teams}) => {
 
- // console.log(teams,'teams');
-
- // 4 cercles total, 3 circles each one is a step, depends on the status of the team (3 statuses) the circle is colored
- // if the team have all statuses on done then the 4th circle is colored also
- // on click on the not colored circle for moving the status of the team by 1
- 
-
  let count = 0;      
 
  return (
