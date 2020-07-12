@@ -22,3 +22,4 @@ npm start
 * if the app is rendered and there is no steps for the team the team will not be rendered
 * if the app is rendered a team that have all 3 circles colored the this team will not be rendered
 * if the app is rendered and some team have 3 steps already completed the app will render it as a finished status
+* if the first step is not completed and you clicking on the second step it will not be colored, you need to finish first step before continuing to the next one
